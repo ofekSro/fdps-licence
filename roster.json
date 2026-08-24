@@ -2,14 +2,13 @@
  "payload": {
   "version": 1,
   "course": "FD Plate Solver",
-  "issued": "2026-08-24T09:45:20Z",
+  "issued": "2026-08-24T09:46:13Z",
   "expires": "1970-01-01",
-  "salt": "itoE2Xl/F4Aq3IpXG/Ukog==",
+  "salt": "16YEMCjN8O4PZSoXIjha1w==",
   "kdf_iterations": 200000,
   "emails": {
-   "eAqgCXeap5THobZ41vtGnHZs6gtDfInXjSOU98QFMxQ=": "9999-12-31",
-   "TlhxM+mFFlvArVJ1mcVCskuwzwyhVRP0zKZ1OdWKp/4=": "2027-03-01"
+   "ImySs82vD2jQyQClL1tpOaYBWN4vhJbAjw6ibJhlRNg=": "9999-12-31"
   }
  },
- "signature": "2BUPnjOsoXDW02oKbrt0uX1DOmK5FzZwhZAPHDK2MwVgF3xLq0sfimCZuMk/Y3UM9e3OTlqxZT0kERNGDyqsDQ=="
+ "signature": "F6QSGZs1GiJrhQVb7ftKr6jL7RgV3Qmg/j/kfZfJtg5zOYau7FI0Q8WN1YkSUhv1I3NLwzHCKSm2J2yphMiBDA=="
 }
