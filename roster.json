@@ -2,15 +2,23 @@
  "payload": {
   "version": 1,
   "course": "FD Plate Solver",
-  "issued": "2026-08-27T09:49:22Z",
+  "issued": "2026-08-27T12:11:32Z",
   "expires": "1970-01-01",
-  "salt": "2FV6vbKcxIzkWoFFHZweZw==",
+  "salt": "ieuFu0BFRa8YXxwvovxYVw==",
   "kdf_iterations": 200000,
+  "pw_salt": "HWRkhbuC60xI0dCIGCO4XQ==",
+  "pw_iterations": 600000,
   "emails": {
-   "V0nK0caMnnw1+DdjQMLptuePwADOg0tU3wtuwpWjCpQ=": "9999-12-31",
-   "1Qc2GafLXYcl83qc5iR7zw3ue06NkM3vnF9JRMNQwE0=": "9999-12-31",
-   "axtR0nzT3/Ryw450kEu1cEeGAbB4L3y/III8yIHP0PY=": "2026-08-23"
+   "N6qtHYlBJboas1pTtgwLMngbsxgEsLkZD1DeBYIeHRo=": {
+    "expires": "9999-12-31",
+    "pw": "CxZWqha91xcQUgiivfLtuAKuPkN6w4/8p5/v1urww6c="
+   },
+   "1zhLrHNO8rWsN1lO1anNZfTLge9ITQDNez8RHAh0/OI=": {
+    "expires": "9999-12-31",
+    "pw": "CxZWqha91xcQUgiivfLtuAKuPkN6w4/8p5/v1urww6c="
+   },
+   "inU3moDzvjE9BN5iNR7aA+xW7K2cdodOvv68+Cx9YgQ=": "2026-08-23"
   }
  },
- "signature": "Yudf/1FyzWg8Qcfe2TV9uxnJH2sQx1As2COHRdVgJbeJjHBZt7wDMeU4oY66jprywS7yqK6tjXlhkv39jmXOCw=="
+ "signature": "Sr0vRL287bfehW0WtiG4GorA3zL7/wNRstp/VUSLqheGly3Ya0f5dPi92aTvviZFEnacX5IDrLf/wQMq3dI9Bw=="
 }
